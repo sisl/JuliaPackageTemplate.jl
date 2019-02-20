@@ -73,19 +73,11 @@ var documenterSearchIndex = {"docs": [
 },
 
 {
-    "location": "modules/rubber_ducks/#JuliaPackageTemplate.RubberDucks.add_one",
-    "page": "Rubber Ducks",
-    "title": "JuliaPackageTemplate.RubberDucks.add_one",
-    "category": "function",
-    "text": "Adds one to a number.\n\nArguments:\n\nval::Real Input value\n\nReturns:\n\nx::Float64 Return value\n\n\n\n\n\n"
-},
-
-{
     "location": "modules/rubber_ducks/#Rubber-Ducks-1",
     "page": "Rubber Ducks",
     "title": "Rubber Ducks",
     "category": "section",
-    "text": "You can modify the name of both the file in the documentationrubber_ducks_in_earth\nRUBBER_DUCK_PER_SEC\nadd_one"
+    "text": "You can modify the name of both the file in the documentationrubber_ducks_in_earth\nRUBBER_DUCK_PER_SEC"
 },
 
 {
@@ -106,8 +98,8 @@ var documenterSearchIndex = {"docs": [
 
 {
     "location": "library_index/#",
-    "page": "Librrary Index",
-    "title": "Librrary Index",
+    "page": "Library Index",
+    "title": "Library Index",
     "category": "page",
     "text": ""
 },
