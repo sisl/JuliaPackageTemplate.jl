@@ -69,7 +69,15 @@ var documenterSearchIndex = {"docs": [
     "page": "Rubber Ducks",
     "title": "JuliaPackageTemplate.RubberDucks.RUBBER_DUCK_PER_SEC",
     "category": "constant",
-    "text": "Number of rubber ducks products per second in the entire world on average.\n\nUnits: ducks/sec\n\n\n\n\n\n"
+    "text": "Number of rubber ducks produced per second in the entire world on average.\n\nUnits: ducks/sec\n\n\n\n\n\n"
+},
+
+{
+    "location": "modules/rubber_ducks/#JuliaPackageTemplate.RubberDucks.add_one",
+    "page": "Rubber Ducks",
+    "title": "JuliaPackageTemplate.RubberDucks.add_one",
+    "category": "function",
+    "text": "Adds one to a number.\n\nArguments:\n\nval::Real Input value\n\nReturns:\n\nx::Float64 Return value\n\n\n\n\n\n"
 },
 
 {
@@ -77,7 +85,7 @@ var documenterSearchIndex = {"docs": [
     "page": "Rubber Ducks",
     "title": "Rubber Ducks",
     "category": "section",
-    "text": "You can modify the name of both the file in the documentationrubber_ducks_in_earth\nRUBBER_DUCK_PER_SEC"
+    "text": "You can modify the name of both the file in the documentationrubber_ducks_in_earth\nRUBBER_DUCK_PER_SEC\nadd_one"
 },
 
 {
