@@ -107,4 +107,4 @@ This involves two steps:
 ## Adding package to Julia Package Repository
 
 To add a package to the Julia package repository it is currently easiest to use 
-[Attobot](https://github.com/attobot/attobot)
+[Registrator.jl](https://github.com/JuliaRegistries/Registrator.jl)
